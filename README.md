@@ -9,4 +9,4 @@ Array Left rotation : [See here for solution](https://gist.github.com/itsmac/9d9
 
 3 Sum problem : [See here for solution](https://gist.github.com/itsmac/7c6b2e1c3db998fa186b820fbea4bd54) | [Leetcode](https://leetcode.com/problems/3sum/)
 
-
+3 Sum closest : [See here for solution]() | [Leetcode](https://leetcode.com/problems/3sum-closest/submissions/)
