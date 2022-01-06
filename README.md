@@ -20,6 +20,6 @@ Sorting the Sentence : [See here for solution](https://gist.github.com/itsmac/6b
 
 # Algorithms
 
-##Sorting 
+## Sorting 
 
 Quick Sort : [Implementation in python](https://gist.github.com/itsmac/3cb52057718e042e2d3f5450ad26753b)
