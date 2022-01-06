@@ -16,4 +16,4 @@ Minimum Absolute Difference : [See here for solution](https://gist.github.com/it
 
 # String 
 
-orting the Sentence : [See here for solution](https://gist.github.com/itsmac/6b623634de3be0633ffbbbd5dd7b6a38) | [Leetcode](https://leetcode.com/problems/sorting-the-sentence/)
+Sorting the Sentence : [See here for solution](https://gist.github.com/itsmac/6b623634de3be0633ffbbbd5dd7b6a38) | [Leetcode](https://leetcode.com/problems/sorting-the-sentence/)
