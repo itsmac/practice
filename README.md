@@ -17,3 +17,9 @@ Minimum Absolute Difference : [See here for solution](https://gist.github.com/it
 # String 
 
 Sorting the Sentence : [See here for solution](https://gist.github.com/itsmac/6b623634de3be0633ffbbbd5dd7b6a38) | [Leetcode](https://leetcode.com/problems/sorting-the-sentence/)
+
+# Algorithms
+
+##Sorting 
+
+Quick Sort : [Implementation in python](https://gist.github.com/itsmac/3cb52057718e042e2d3f5450ad26753b)
