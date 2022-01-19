@@ -23,3 +23,8 @@ Sorting the Sentence : [See here for solution](https://gist.github.com/itsmac/6b
 ## Sorting 
 
 Quick Sort : [Implementation in python](https://gist.github.com/itsmac/3cb52057718e042e2d3f5450ad26753b)
+
+
+# Stack
+
+Maximum Nesting Depth of the Parentheses : [See here for solution](https://gist.github.com/itsmac/ee450a9f6154c6d1e4b6606d7b70dc3a) | [Leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
